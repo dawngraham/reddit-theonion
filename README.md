@@ -1,4 +1,4 @@
-# Project 3: Web APIs & Classification
+# Reddit: r/TheOnion vs. r/nottheonion
 <a href="https://dawngraham.github.io/" target="_blank">Dawn Graham</a>
 
 ## Problem Statement
