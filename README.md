@@ -102,6 +102,6 @@ Next steps:
 
 ---
 #### References
-1. Wardle, Claire (16 February 2017). "Fake news. It’s complicated." *First Draft.* Retrieved 21 December 2018, from https://firstdraftnews.org/fake-news-complicated/.
-2. Wikipedia contributors (19 December 2018). The Onion. *Wikipedia, The Free Encyclopedia.*  Retrieved 21 December 2018, from https://en.wikipedia.org/wiki/The_Onion.
-3. "Welcome to NTO101: An Introduction to /r/NotTheOnion!" *Reddit.* Retrieved 21 December 2018, from https://www.reddit.com/r/nottheonion/wiki/nto101.
+1. Wardle, Claire (16 February 2017). "Fake news. It’s complicated." *First Draft.* Retrieved 21 December 2018, from `https://firstdraftnews.org/fake-news-complicated/`.
+2. Wikipedia contributors (19 December 2018). The Onion. *Wikipedia, The Free Encyclopedia.*  Retrieved 21 December 2018, from `https://en.wikipedia.org/wiki/The_Onion`.
+3. "Welcome to NTO101: An Introduction to /r/NotTheOnion!" *Reddit.* Retrieved 21 December 2018, from `https://www.reddit.com/r/nottheonion/wiki/nto101`.
