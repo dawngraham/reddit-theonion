@@ -29,11 +29,11 @@ While "fake news" has become a hot topic in recent years, fake news is nothing n
 Researcher Claire Wardle categorized fake news into seven types:<sup>1</sup>
 ![7 Types of Mis- and Disinformation](./images/FDN_7Types_Misinfo-01-1024x576.jpg)
 
-*The Onion* falls into the first type: satire or parody. The organization started publishing satirical news articles in print in 1988, then went online in 1996.<sup>2</sup> Articles from *The Onion* and its satirical sister sites are shared on the Reddit subreddit <a href="https://www.reddit.com/r/TheOnion" target="_blank">r/TheOnion</a>, which had 83.1k subscribers as of December 21, 2018.
+*The Onion* falls into the first type: satire or parody. The organization started publishing satirical news articles in print in 1988, then went online in 1996.<sup>2</sup> Articles from *The Onion* and its satirical sister sites are shared on the Reddit subreddit **r/TheOnion**, which had 83.1k subscribers as of December 21, 2018.
 
-There is also the subreddit <a href="https://www.reddit.com/r/nottheonion" target="_blank">r/nottheonion</a>: "For true stories that are so mind-blowingly ridiculous that you could have sworn they were from The Onion." This had 14.5m subscribers, far outnumbering the subreddit for the publication it references.
+There is also the subreddit **r/nottheonion**: "For true stories that are so mind-blowingly ridiculous that you could have sworn they were from The Onion." This had 14.5m subscribers, far outnumbering the subreddit for the publication it references.
 
-Another subreddit <a href="https://www.reddit.com/r/AteTheOnion" target="_blank">r/AteTheOnion</a> had 229k subscribers, also outnumbering subscribers to r/TheOnion. This one is dedicated to "screencaps of people who failed to see The Onion's articles as satire."  
+Another subreddit **r/AteTheOnion** had 229k subscribers, also outnumbering subscribers to r/TheOnion. This one is dedicated to "screencaps of people who failed to see The Onion's articles as satire."  
 
 r/nottheonion and r/AteTheOnion point both to the interest in "strange but true" news and the challenge of separating fact from fiction.  
 
@@ -102,6 +102,6 @@ Next steps:
 
 ---
 #### References
-1. Wardle, Claire (16 February 2017). <a href="https://firstdraftnews.org/fake-news-complicated/" target="_blank">"Fake news. It’s complicated."</a> *First Draft.* Retrieved 21 December 2018.
-2. Wikipedia contributors (19 December 2018). <a href="https://en.wikipedia.org/wiki/The_Onion" target="_blank">The Onion</a>. *Wikipedia, The Free Encyclopedia.*  Retrieved 21 December 2018.
-3. <a href="https://www.reddit.com/r/nottheonion/wiki/nto101" target="_blank">"Welcome to NTO101: An Introduction to /r/NotTheOnion!"</a> *Reddit.* Retrieved 21 December 2018.
+1. Wardle, Claire (16 February 2017). "Fake news. It’s complicated." *First Draft.* Retrieved 21 December 2018, from https://firstdraftnews.org/fake-news-complicated/.
+2. Wikipedia contributors (19 December 2018). The Onion. *Wikipedia, The Free Encyclopedia.*  Retrieved 21 December 2018, from https://en.wikipedia.org/wiki/The_Onion.
+3. "Welcome to NTO101: An Introduction to /r/NotTheOnion!" *Reddit.* Retrieved 21 December 2018, from https://www.reddit.com/r/nottheonion/wiki/nto101.
