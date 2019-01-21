@@ -100,6 +100,9 @@ Next steps:
 - Try filtering out submissions that were removed from the subreddits.
 - Look at how repeated postings in r/TheOnion relate to real news.
 
+## An Invitation
+Thoughts and feedback are always appreciated. Please feel free to get in touch. Get up-to-date contact info at [dawngraham.github.io](https://dawngraham.github.io/).
+
 ---
 #### References
 1. Wardle, Claire (16 February 2017). "Fake news. It’s complicated." *First Draft.* Retrieved 21 December 2018, from `https://firstdraftnews.org/fake-news-complicated/`.
